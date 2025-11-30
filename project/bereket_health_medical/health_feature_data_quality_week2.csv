@@ -1,0 +1,11 @@
+variable,dtype,n_unique,missing_count,missing_pct,min,max
+diabetes_binary,float64,2,399339,85.94,0.0,1.0
+_bmi5,float64,3750,30694,6.61,1201.0,9963.0
+bmi,float64,3750,30694,6.61,12.01,99.63
+alcday5,float64,38,25447,5.48,101.0,888.0
+_smoker3,float64,4,21171,4.56,1.0,4.0
+physhlth,float64,31,10303,2.22,0.0,30.0
+menthlth,float64,31,7962,1.71,0.0,30.0
+exerany2,float64,2,1727,0.37,1.0,2.0
+genhlth,float64,5,1692,0.36,1.0,5.0
+diabete3,float64,4,844,0.18,1.0,4.0
